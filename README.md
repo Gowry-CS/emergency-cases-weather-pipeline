@@ -60,3 +60,6 @@ This project was implemented in two main stages: Data Engineering and Data Analy
 - Assessed the reliability of weather forecasts for hospital resource planning.
 
 - Details on Analysis can be found in the [presentation](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/blob/main/Emergency%20Cases%20and%20Weather%20Correlation%20Presentation.pdf) slides 19-24.
+
+**Footnotes**
+*This data pipeline was built and analysed as part of a group project. All items were completed by myself except for the [Location Clustering notebook](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/tree/main/4.%20Location%20Clustering%20ETL) and analysis images found in [presentation](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/blob/main/Emergency%20Cases%20and%20Weather%20Correlation%20Presentation.pdf) slides 19,20, 22 and 24 which were contributed by another group member. The idea formulation of this project topic was also contributed by the same group member*
