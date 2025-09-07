@@ -19,8 +19,8 @@ Focuses on emergency cases, historical rainfall data, and historical rain foreca
 
 Designed and implemented a database schema optimized for OLAP queries, enabling efficient trend and correlation analysis. Refer to Final Database Schema's ERD diagram to understand the relationship between the different tables.  
 
-Concentrates on two core research questions:
-1.Does rainfall influence emergency room admissions?
+Concentrates on two core research questions:<br>
+1.Does rainfall influence emergency room admissions?<br>
 2.Are weather forecasts sufficiently reliable for planning hospital resources?
 
 **Limitations**
