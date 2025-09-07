@@ -6,7 +6,7 @@ The goal of this project is to build a robust data pipeline that extracts, trans
 
 Through this project, we aim to:
 
-1.Extract Data from different sources though an ETL/ELT pipeline to a database.
-2. Develop a well-structured database schema to support scalable and reliable analysis.
-3. Assess whether rainfall influences emergency room admissions.
-4. Evaluate the reliability of weather forecasts for planning hospital resources.
+1.Extract Data from different sources though an ETL/ELT pipeline to a database.<br>
+2. Develop a well-structured database schema to support scalable and reliable analysis.<br>
+3. Assess whether rainfall influences emergency room admissions.<br>
+4. Evaluate the reliability of weather forecasts for planning hospital resources.<br>
