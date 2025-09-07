@@ -1,4 +1,4 @@
-#### Data pipeline analyzing correlations between emergency cases and weather
+### Data pipeline analyzing correlations between emergency cases and weather
 
 **Goal**
 
