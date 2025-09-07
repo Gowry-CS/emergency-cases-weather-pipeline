@@ -17,11 +17,12 @@ Through this project, we aim to:
 
 -Focuses on emergency cases, historical rainfall data, and historical rainfall forecast data from 2003 to 2004.
 
--Includes data from most public hospitals in Singapore during this period. Data source links are provided in the Documentation (PDF, page 2).
+-Includes data from most public hospitals in Singapore during this period. Data source links are provided in the [Documentation](relative/path/to/file)
+ (PDF, page 2).
 
 -Designed and implemented a database schema optimized for OLAP queries, enabling efficient trend and correlation analysis.
 
--Refer to the Final Database Schema ERD diagram for an overview of the relationships between tables. 
+-Refer to the Final Database Schema ERD diagram (found in the Final Database Design Folder) for an overview of the relationships between tables. 
 
 Concentrates on two core research questions:<br>
 1.Does rainfall influence emergency room admissions?<br>
