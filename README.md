@@ -28,6 +28,8 @@ Concentrates on two core research questions:<br>
 1.Does rainfall influence emergency room admissions?<br>
 2.Are weather forecasts sufficiently reliable for planning hospital resources?
 
+*All Jupyter notebooks and SQL scripts have been numbered accordingly for anyone to be able to recreate the data flow from the data sources to the staging database and final database in PostgreSQL*  
+
 **Limitations**
 
 Woodlands Health was excluded as it was not operational during the study period.<br>
