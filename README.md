@@ -34,3 +34,29 @@ Woodlands Health was excluded as it was not operational during the study period.
 KKH was excluded due to unavailable data via MOH.<br>
 Analysis is restricted to the 2003–2004 timeframe; insights may not generalize to current hospital operations or climate patterns.<br>
 Weather and healthcare data availability may introduce bias or gaps in certain time intervals. <br>
+
+**Methodology**
+
+This project was implemented in two main stages: Data Engineering and Data Analysis.
+
+1. Data Engineering (ETL Pipeline)
+
+- Extract: Collected weather and healthcare datasets from publicly available sources.
+
+- Transform: Cleaned, standardized, and joined datasets to ensure consistency (e.g., date formats, missing values, and categorical encoding).
+
+- Load: Stored the processed data into a structured database optimized for analytical queries.
+
+2. Database Design
+
+- Designed a star schema to support OLAP queries, improving efficiency for aggregation and correlation analysis.
+
+- Created dimension tables (e.g., forecast_rainfall, emd, station_hospital) and fact table (e.g., Hospitals) to allow flexible slicing and dicing of the data.
+
+3. Analysis
+
+- Conducted exploratory queries to examine the relationship between rainfall and emergency room admissions.
+
+- Assessed the reliability of weather forecasts for hospital resource planning.
+
+- Details on Analysis can be found in the [presentation](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/blob/main/Emergency%20Cases%20and%20Weather%20Correlation%20Presentation.pdf) slides 19-24.
