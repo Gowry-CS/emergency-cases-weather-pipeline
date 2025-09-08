@@ -32,10 +32,10 @@ Concentrates on two core research questions:<br>
 
 **Limitations**
 
-Woodlands Health was excluded as it was not operational during the study period.<br>
-KKH was excluded due to unavailable data via MOH.<br>
-Analysis is restricted to the 2003–2004 timeframe; insights may not generalize to current hospital operations or climate patterns.<br>
-Weather and healthcare data availability may introduce bias or gaps in certain time intervals. <br>
+- Woodlands Health was excluded as it was not operational during the study period.<br>
+- KKH was excluded due to unavailable data via MOH.<br>
+- Analysis is restricted to the 2003–2004 timeframe; insights may not generalize to current hospital operations or climate patterns.<br>
+- Weather and healthcare data availability may introduce bias or gaps in certain time intervals. <br>
 
 **Methodology**
 
@@ -62,6 +62,3 @@ This project was implemented in two main stages: Data Engineering and Data Analy
 - Assessed the reliability of weather forecasts for hospital resource planning.
 
 - Details on Analysis can be found in the [presentation](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/blob/main/Emergency%20Cases%20and%20Weather%20Correlation%20Presentation.pdf) slides 19-24.
-
-**Footnotes**<br>
-*This data pipeline was built and analysed as part of a group project. All items were completed by myself except for the [Location Clustering notebook](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/tree/main/4.%20Location%20Clustering%20ETL) and analysis images found in [presentation](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/blob/main/Emergency%20Cases%20and%20Weather%20Correlation%20Presentation.pdf) slides 19,20, 22 and 24 which were contributed by another group member. The idea formulation of this project topic was also contributed by the same group member*
