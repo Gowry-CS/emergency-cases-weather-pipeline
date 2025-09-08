@@ -15,14 +15,14 @@ Through this project, we aim to:
 
 **Scope**
 
--Focuses on emergency cases, historical rainfall data, and historical rainfall forecast data from 2003 to 2004.
+- Focuses on emergency cases, historical rainfall data, and historical rainfall forecast data from 2003 to 2004.
 
--Includes data from most public hospitals in Singapore during this period. Data source links are provided in the [Documentation](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/blob/main/Emergency%20Cases%20and%20Weather%20Correlation%20Documentation.pdf)
+- Includes data from most public hospitals in Singapore during this period. Data source links are provided in the [Documentation](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/blob/main/Emergency%20Cases%20and%20Weather%20Correlation%20Documentation.pdf)
  (PDF, page 2).
 
--Designed and implemented a database schema optimized for OLAP queries, enabling efficient trend and correlation analysis.
+- Designed and implemented a database schema optimized for OLAP queries, enabling efficient trend and correlation analysis.
 
--Refer to the [Final Database Schema ERD diagram](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/blob/main/Final%20Database%20Design/Final%20Database%20Design.png) for an overview of the relationships between tables. 
+- Refer to the [Final Database Schema ERD diagram](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/blob/main/Final%20Database%20Design/Final%20Database%20Design.png) for an overview of the relationships between tables. 
 
 Concentrates on two core research questions:<br>
 1.Does rainfall influence emergency room admissions?<br>
