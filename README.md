@@ -25,6 +25,7 @@ Through this project, we aim to:
 - Refer to the [Final Database Schema ERD diagram](https://github.com/Gowry-CS/emergency-cases-weather-pipeline/blob/main/Final%20Database%20Design/Final%20Database%20Design.png) for an overview of the relationships between tables. 
 
 Concentrates on two core research questions:<br>
+
 1.Does rainfall influence emergency room admissions?<br>
 2.Are weather forecasts sufficiently reliable for planning hospital resources?
 
